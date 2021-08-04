@@ -1,0 +1,32 @@
+h1 {
+  font-family: Verdana;
+  font-size:90px;
+}
+.header {
+  background-color: rgb(150, 38, 38);
+}
+.content {
+  background-color: rgb(220, 150, 150);
+}
+.footer {
+  background-color: rgb(233, 194, 182);
+}
+#p1{
+    color:rgb(99, 0, 20);
+}
+#p2{
+    color:black;
+}
+#p3{
+    color:rgb(117, 63, 63);
+}
+aside{
+    float:left;
+    width:200px;
+    background-color:rgba(150, 38, 38, 0.815);
+}
+body{
+    margin:10px 50px;
+    font-size: 25px;
+    font-family:Verdana;
+}
